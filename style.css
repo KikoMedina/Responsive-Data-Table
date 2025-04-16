@@ -35,8 +35,10 @@ cursor:pointer;
 }
 
 tr {
-background-color: #57706c;
+background-color: #bdc2dc;
 }
+
+
 
 .container {
   max-width: 1000px;
@@ -46,3 +48,16 @@ background-color: #57706c;
 .table-container {
  overflow-x: auto;
 }
+
+
+input[type="text"]{
+  font-size: 16px;
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto 20px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #907a7a;
+  border-radius: 6px;
+ }
